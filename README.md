@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vairis Strazdins</h1>
 <h3 align="center">A Software developer from Latvia</h3>
 
-<p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a focus on Java. Currently, I'm working on the Flight-planner application, a project that aims to simplify flight planning and management.</p>
+<p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a focus on Java. Currently, I'm working on the Flight-planner application, a simple flight planning aplication where we can add flights, delete flights and search flights</p>
 
-- 🔭 I’m currently working on [Fligth-planner aplication](https://github.com/vairis223/flight-planner)
+- 🔭 My currently project [Fligth-planner aplication](https://github.com/vairis223/flight-planner)
 
 - 🌱 I’m currently improving my Java language skills!
 
