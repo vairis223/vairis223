@@ -5,7 +5,7 @@
 
 - 🔭 My currently project [Fligth-planner aplication](https://github.com/vairis223/flight-planner)!
 
-- 🌱 I’m currently improving my Java language skills!
+- 🌱 I’m still improving my Java language skills!
 
 - 📫 How to reach me: **vairisstrazd@gmail.com**
 
